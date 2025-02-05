@@ -4,5 +4,4 @@
 - Made entirely for *educational* purposes.
 - ## Modules:
  - Pygame
-- ## Licenses:
- - MIT License
+- ## License: MIT License
